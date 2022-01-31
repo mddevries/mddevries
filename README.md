@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mddevries
 - 👀 I’m interested in programming, video games, etc.
-- 🌱 I’m currently learning HTML, JavaScript, LWC
+- 🌱 I’m currently learning HTML, JavaScript, CSS
 - 💞️ I’m looking to collaborate on smaller fun projects that I can have fun learning from (and maybe even make some money from :D)
 - 📫 How to reach me: mdevries@mines.edu
 
