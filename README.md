@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, video games, etc.
 - 🌱 I’m currently learning HTML, JavaScript, CSS
 - 💞️ I’m looking to collaborate on smaller fun projects that I can have fun learning from (and maybe even make some money from :D)
-- 📫 How to reach me: mdevries@mines.edu
+- 📫 How to reach me: mddevries22@gmail.com
 
 <!---
 mddevries/mddevries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
